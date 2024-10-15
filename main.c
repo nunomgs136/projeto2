@@ -8,5 +8,6 @@ int main(void) {
   printf("Deu certo, manas\n");
   printf("Testando branches no vs code\n");
   printf("Tentando mais um pouco\n");
+  printf("Testando pull request\n");
   return 0;
 }
