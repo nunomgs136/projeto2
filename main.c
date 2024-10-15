@@ -11,6 +11,6 @@ int main(void) {
   printf("Testando pull request\n");
   printf("Num sei\n");
   printf("slay\n");
-  printf("Eu nn aguento mais");
+  printf("Eu nn aguento mais\n");
   return 0;
 }
