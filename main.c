@@ -9,5 +9,8 @@ int main(void) {
   printf("Testando branches no vs code\n");
   printf("Tentando mais um pouco\n");
   printf("Testando pull request\n");
+  printf("Num sei\n");
+  printf("slay\n");
+
   return 0;
 }
