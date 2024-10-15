@@ -8,7 +8,12 @@ int main(void) {
   printf("Deu certo, manas\n");
   printf("Testando branches no vs code\n");
   printf("Tentando mais um pouco\n");
+  printf("Testando pull request\n");
+<<<<<<< HEAD
   printf("Num sei\n");
   printf("slay\n");
+=======
+  
+>>>>>>> main
   return 0;
 }
