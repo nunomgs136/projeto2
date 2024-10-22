@@ -16,5 +16,6 @@ int main(void) {
     printf("eu estou monitorando\n");
   }
   printf("Teste de nome de branch no github");
+  printf("Teste de rebase interativo");
   return 0;
 }
